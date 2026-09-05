@@ -3,3 +3,4 @@ GitHub is where those snapshots live in the cloud.
 Day 2: Stage → Commit → Push is the core workflow!
 Part 4 — Instructor Demo: When Pull Hits a Conflict
 This line was changed on GitHub.
+My goal: get comfortable with branches
